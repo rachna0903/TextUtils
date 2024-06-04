@@ -1,3 +1,8 @@
+- Text Utils is an application designed to assist users in manipulating and analyzing text conveniently
+through a web interface.
+- The key features of this app users can input text and perform various manipulations such as converting
+to uppercase, lowercase, removing extra spaces, etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
