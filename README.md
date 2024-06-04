@@ -3,6 +3,12 @@ through a web interface.
 - The key features of this app users can input text and perform various manipulations such as converting
 to uppercase, lowercase, removing extra spaces, etc.
 
+![Screenshot (9)](https://github.com/rachna0903/TextUtils/assets/128318608/a0826e1b-218b-4122-8832-bab69bc13e82)
+![Screenshot (8)](https://github.com/rachna0903/TextUtils/assets/128318608/943a7f4a-c3e2-4738-8eff-3c9a8a1b1c83)
+![Screenshot (7)](https://github.com/rachna0903/TextUtils/assets/128318608/7c5da678-ca4a-4628-a74c-1fa1916b49d5)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
